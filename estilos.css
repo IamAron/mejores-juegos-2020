@@ -1,0 +1,42 @@
+body {
+    font-family:helvetica;
+    margin-left:20px;
+    background:#241E4E;
+    color:white;
+}
+h1{
+    font-family:verdana;
+    text-align: center;
+    background:#FFC300;
+   color:black;
+    padding:50px 0px;
+    font-size:60px
+
+}
+h2{
+    font-size:45px;
+}
+img{
+    float:left;
+    margin-right:50px;
+
+}
+.descripcion{
+    font-size:20px;
+    font-family:times;
+    margin-right:955px;
+}
+section{
+    background:black;
+    padding:30px 30px;
+}
+
+    
+.video{
+    margin-left:0px;
+  
+}
+footer{
+    text-align: center;
+    background:#571b32;
+    padding: 10px 0px
